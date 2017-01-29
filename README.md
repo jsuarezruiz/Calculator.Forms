@@ -4,7 +4,7 @@
 
 <img src="images/Calculator.png" Width="400" />
 
-The **objectives** of the demo applications are:
+The **objectives** of the demo application is:
 
 - Explain how to create unit testing project.
 - Create **Xamarin.UITest** project.
