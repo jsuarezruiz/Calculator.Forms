@@ -1,4 +1,4 @@
-#CALCULATOR
+# CALCULATOR
 
 **CALCULATOR** is a simple Xamarin.Forms Calculator.
 
